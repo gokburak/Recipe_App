@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-# Live URL 
+# Live Project URL 
 https://gokburak-recipe-app.netlify.app/
 ### `npm start`
 
